@@ -1,0 +1,21 @@
+Package: dc.tidycensus
+Title: DC Tidycensus
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Jordan",
+           family = "Chafetz",
+           role = c("aut", "cre"),
+           email = "jordanchafetz@gmail.com")
+Description: Pulls Census ACS Shapefiles for DC - pulls from tidycensus package. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    tidycensus,
+    sf,
+    dplyr,
+    tidyr,
+    magrittr,
+    getPass
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.0
