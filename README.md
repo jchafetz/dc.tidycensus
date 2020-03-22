@@ -2,6 +2,7 @@
 # dc.tidycensus
 
 <!-- badges: start -->
+[![Travis build status](https://travis-ci.org/jchafetz/dc.tidycensus.svg?branch=master)](https://travis-ci.org/jchafetz/dc.tidycensus)
 <!-- badges: end -->
 
 The goal of dc.tidycensus is to ...
